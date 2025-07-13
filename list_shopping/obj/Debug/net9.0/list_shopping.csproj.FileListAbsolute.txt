@@ -1,0 +1,14 @@
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.AssemblyInfoInputs.cache
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.AssemblyInfo.cs
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.csproj.CoreCompileInputs.cache
+D:\'\Projects\C#-Lesson8\list_shopping\bin\Debug\net9.0\list_shopping.exe
+D:\'\Projects\C#-Lesson8\list_shopping\bin\Debug\net9.0\list_shopping.deps.json
+D:\'\Projects\C#-Lesson8\list_shopping\bin\Debug\net9.0\list_shopping.runtimeconfig.json
+D:\'\Projects\C#-Lesson8\list_shopping\bin\Debug\net9.0\list_shopping.dll
+D:\'\Projects\C#-Lesson8\list_shopping\bin\Debug\net9.0\list_shopping.pdb
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.dll
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\refint\list_shopping.dll
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.pdb
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\list_shopping.genruntimeconfig.cache
+D:\'\Projects\C#-Lesson8\list_shopping\obj\Debug\net9.0\ref\list_shopping.dll
